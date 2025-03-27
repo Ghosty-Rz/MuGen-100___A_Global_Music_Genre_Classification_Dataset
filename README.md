@@ -1,0 +1,106 @@
+The Dataset can be found here : " https://alakhawayn365-my.sharepoint.com/:f:/g/personal/r_zouitni_aui_ma/Es2PWQFrsfpFghCIgiXZ9NkBmucRMhE27F0gbwyO-KZzWA?e=FnDAOm "
+The Dataset contains 100 genres from different parts and eras of the word:   
+- Ahidous
+- Ahwach
+- Aita
+- amapiano
+- andalussi
+- Didgeridoo
+- Haka
+- Dabke
+- Khaleej
+- Pop
+- bachata
+- balkan brass
+- banda
+- blues
+- bikutsi
+- carnatic
+- Guqin
+- Pekinopera
+- city pop
+- classical
+- classical tarab
+- country
+- cumbia
+- Rumba
+- Salsa
+- Soncubano
+- dangdut
+- disco
+- Benga
+- African Taarab
+- EDM
+- Baladi
+- Egyptian shaabi
+- Enka
+- Alps
+- forro
+- Funk
+- gamelan
+- gugak
+- gypsy
+- Hassani
+- hiphop
+- bollypop
+- ghazal
+- semiclassical
+- sufi
+- Bandari
+- classical
+- issawa
+- jazz
+- joropo
+- jpop
+- kpop
+- kwaito
+- lofi
+- luk thung
+- Moroccan Chaabi
+- Chgouri
+- Dakkamarrakchia
+- Gnawa
+- makossa
+- malhoun
+- mariachi
+- mbaqanga
+- mbube
+- merengue
+- metal
+- minyo
+- norteno
+- Nordic folk
+- samicjoik
+- Old Cpop
+- pop
+- bombayplena
+- rai
+- rap
+- Reggada
+- reggae
+- RnB
+- rock
+- samba
+- sertanejo
+- slavic folk
+- son jarocho
+- soukous
+- Taktouka Jabalya
+- tango
+- turbo folk
+- turkish classical
+- turkish folk
+- afrobeats
+- griot
+- highlife
+- juju
+- mbalax
+- wassoulou
+- chanson
+- fado
+- flamenco
+- opera
+
+.
+We're attempting to train a model on music genre classification using this dataset but it's proving very difficult for us currently since it's computationally expensive and our computers seem to crash before reaching higher accuracies.  
+We might add more Genres in the future.
