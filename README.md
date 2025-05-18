@@ -1,4 +1,4 @@
-# MuGen-100: A Diverse and Globally-Rich Music Genre Dataset
+# MuGen-100: Dataset
 
 **MuGen-100** is a large-scale, globally representative dataset designed to support research and development in music genre classification. It emphasizes genre diversity, cultural inclusion, and data quality. It was created to support genre-aware audio applications and benchmarking machine learning models.
 
@@ -8,11 +8,11 @@
 
 The dataset can be downloaded via the following link:
 
-**[Download MuGen-100 Dataset]([https://alakhawayn365my.sharepoint.com/:f:/g/personal/r_zouitni_aui_ma/Es2PWQFrsfpFghCIgiXZ9NkBmucRMhE27F0gbwyO-KZzWA?e=FnDAOm](https://alakhawayn365-my.sharepoint.com/:f:/g/personal/s_samine_aui_ma/Ek7UmGfNk2VPs0Mjc2jb6zgBZd5gqMLU6nvi6RCdT3vnIQ?e=SHIKEg))**
+**[Download MuGen-100 Dataset](https://alakhawayn365-my.sharepoint.com/:f:/g/personal/s_samine_aui_ma/Ek7UmGfNk2VPs0Mjc2jb6zgBZd5gqMLU6nvi6RCdT3vnIQ?e=SHIKEg)**
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 - **Total Size:** 43.5 GB (complete dataset)  
 - **Genres:** 100 distinct music genres from around the world  
@@ -23,7 +23,7 @@ The dataset can be downloaded via the following link:
 
 ---
 
-## 🛠️ Data Collection Process
+## 🛠Data Collection Process
 
 1. Scraped playlist links via **YouTube Data API**, public archives, and Kaggle benchmark datasets.  
 2. Extracted 30-second `.wav` segments using **pydub** for precise slicing.  
@@ -33,7 +33,7 @@ For a list of all 100 genres with descriptions and regional origins, see `genres
 
 ---
 
-## 📁 Dataset Versions
+## Dataset Versions
 
 MuGen-100 is structured into three subsets to accommodate different users with different processing power and storage:
 
@@ -224,7 +224,7 @@ MuGen-100/
     ├── West Europe - Chanson
     ├── West Europe - Fado
     ├── West Europe - Flamenco
-
+```text
 ---
 
 The dataset is intended for non-commercial academic use only.
