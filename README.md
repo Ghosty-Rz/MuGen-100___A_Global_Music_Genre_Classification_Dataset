@@ -224,7 +224,7 @@ MuGen-100/
     ├── West Europe - Chanson
     ├── West Europe - Fado
     └── West Europe - Flamenco
-/
+```
 ---
 
 The dataset is intended for non-commercial academic use only.
