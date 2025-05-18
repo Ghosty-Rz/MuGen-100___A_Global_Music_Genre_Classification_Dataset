@@ -8,7 +8,7 @@
 
 The dataset can be downloaded via the following link:
 
-**[Download MuGen-100 Dataset](https://alakhawayn365my.sharepoint.com/:f:/g/personal/r_zouitni_aui_ma/Es2PWQFrsfpFghCIgiXZ9NkBmucRMhE27F0gbwyO-KZzWA?e=FnDAOm)**
+**[Download MuGen-100 Dataset]([https://alakhawayn365my.sharepoint.com/:f:/g/personal/r_zouitni_aui_ma/Es2PWQFrsfpFghCIgiXZ9NkBmucRMhE27F0gbwyO-KZzWA?e=FnDAOm](https://alakhawayn365-my.sharepoint.com/:f:/g/personal/s_samine_aui_ma/Ek7UmGfNk2VPs0Mjc2jb6zgBZd5gqMLU6nvi6RCdT3vnIQ?e=SHIKEg))**
 
 ---
 
@@ -45,7 +45,7 @@ MuGen-100 is structured into three subsets to accommodate different users with d
 
 ## 📂 Folder Structure
 
-<details>
+
 <summary><strong>📁 MuGen-100</strong></summary>
 
 ```text
@@ -228,4 +228,4 @@ MuGen-100/
 ---
 
 The dataset is intended for non-commercial academic use only.
-We do not claiming ownership of the content.
+We do not claim ownership of the content.
