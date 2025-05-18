@@ -6,7 +6,7 @@
 
 ## 📦 Dataset Download
 
-The dataset can be downloaded via the following link:
+The dataset can be viewed and downloaded via the following link:
 
 **[Download MuGen-100 Dataset](https://alakhawayn365-my.sharepoint.com/:f:/g/personal/s_samine_aui_ma/Ek7UmGfNk2VPs0Mjc2jb6zgBZd5gqMLU6nvi6RCdT3vnIQ?e=SHIKEg)**
 
