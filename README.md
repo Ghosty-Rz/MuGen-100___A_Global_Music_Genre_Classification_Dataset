@@ -23,7 +23,7 @@ The dataset can be downloaded via the following link:
 
 ---
 
-## 🛠Data Collection Process
+## Data Collection Process
 
 1. Scraped playlist links via **YouTube Data API**, public archives, and Kaggle benchmark datasets.  
 2. Extracted 30-second `.wav` segments using **pydub** for precise slicing.  
@@ -223,8 +223,8 @@ MuGen-100/
     ├── West Africa - Wassoulou
     ├── West Europe - Chanson
     ├── West Europe - Fado
-    ├── West Europe - Flamenco
-```text
+    └── West Europe - Flamenco
+/
 ---
 
 The dataset is intended for non-commercial academic use only.
