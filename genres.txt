@@ -1,0 +1,201 @@
+Below is a list of the 100 music genres included in the MuGen-100 dataset, each with a short definition and associated region.
+
+1. Ahidous  – Traditional Amazigh dance and music from Morocco. (North Africa)
+
+2. Ahwach  – Collective Amazigh performance involving drumming and chanting. (North Africa)
+
+3. Aita  – Moroccan folk genre blending poetry and rural storytelling. (North Africa)
+
+4. Amapiano  – South African house genre with jazzy piano melodies. (Southern Africa)
+
+5. Andalussi  – Classical Arabic music from the Maghreb with Andalusian roots. (North Africa)
+
+6. Didgeridoo  – Indigenous Australian wind instrument music. (Oceania)
+
+7. Haka  – Traditional Māori war dance with rhythmic chanting. (Oceania)
+
+8. Dabke  – Traditional Levantine line dance with strong drum rhythms. (Middle East)
+
+9. Khaleej  – Gulf region music characterized by oud and rhythms. (Middle East)
+
+10. Pop  – Mainstream modern music with wide commercial appeal. (Global)
+
+11. Bachata  – Romantic guitar-driven music from the Dominican Republic. (Latin America)
+
+12. Balkan Brass  – Energetic brass band music from the Balkans. (Eastern Europe)
+
+13. Banda  – Mexican brass-based traditional ensemble music. (Latin America)
+
+14. Blues  – Emotionally expressive genre rooted in African-American history. (North America)
+
+15. Bikutsi  – Fast-paced dance music from Cameroon. (Central Africa)
+
+16. Carnatic  – South Indian classical music emphasizing vocal performance. (India)
+
+17. Guqin  – Ancient Chinese zither-based music. (Asia - China)
+
+18. Pekinopera  – Chinese opera with stylized acting and music. (Asia - China)
+
+19. City Pop  – 1980s Japanese pop blending funk, jazz, and soft rock. (Asia - Japan)
+
+20. Classical  – Western orchestral music from the Baroque to modern eras. (Europe)
+
+21. Classical Tarab  – Emotionally rich Arabic classical music. (Middle East)
+
+22. Country  – American folk-rooted genre with storytelling lyrics. (North America)
+
+23. Cumbia  – Colombian rhythm-based genre with African and Indigenous roots. (Latin America)
+
+24. Rumba  – Cuban rhythm-driven dance music. (Latin America)
+
+25. Salsa  – Fusion of Afro-Caribbean rhythms and jazz. (Latin America)
+
+26. Soncubano  – Cuban genre combining Spanish guitar and African rhythms. (Latin America)
+
+27. Dangdut  – Indonesian pop with Indian and Malay influences. (Southeast Asia)
+
+28. Disco  – 70s dance music with steady beats and lush production. (Global)
+
+29. Benga  – Kenyan fast-paced guitar music. (East Africa)
+
+30. African Taarab  – Swahili coastal music blending Arabic and African elements. (East Africa)
+
+31. EDM  – Electronic dance music with synthesized beats. (Global)
+
+32. Baladi  – Egyptian folk music with strong rhythms and vocal melisma. (North Africa)
+
+33. Egyptian Shaabi  – Popular urban Egyptian street music. (North Africa)
+
+34. Enka  – Japanese ballad-style pop with emotional delivery. (Asia - Japan)
+
+35. Alps  – European mountain folk music, often using yodeling. (Europe)
+
+36. Forro  – Brazilian accordion-led dance music. (Latin America)
+
+37. Funk  – Rhythm-heavy groove music rooted in African-American culture. (North America)
+
+38. Gamelan  – Indonesian ensemble music using metallophones and gongs. (Southeast Asia)
+
+39. Gugak  – Traditional Korean court and folk music. (Asia - Korea)
+
+40. Gypsy  – Romani folk music with lively rhythms and violin. (Europe)
+
+41. Hassani  – Saharan music with poetic lyrics and desert rhythms. (North Africa)
+
+42. Hiphop  – Rap-based music culture emphasizing rhythm and rhyme. (North America)
+
+43. Bollypop  – Indian Bollywood-style pop music. (Asia - India)
+
+44. Ghazal  – Poetic Urdu song genre rooted in classical music. (Asia - India/Pakistan)
+
+45. Semiclassical  – Indian music blending classical and light elements. (Asia - India)
+
+46. Sufi  – Mystical Islamic devotional music. (Middle East / South Asia)
+
+47. Bandari  – Persian Gulf music with danceable rhythms. (Middle East - Iran)
+
+48. Issawa  – Moroccan Sufi music featuring spiritual chants. (North Africa)
+
+49. Jazz  – Improvisational music with swing and blue notes. (North America)
+
+50. Joropo  – Venezuelan harp-led folk dance music. (Latin America)
+
+51. Jpop  – Modern Japanese pop music. (Asia - Japan)
+
+52. Kpop  – South Korean polished pop music. (Asia - Korea)
+
+53. Kwaito  – South African house influenced by hip-hop. (Southern Africa)
+
+54. Lofi  – Chill, ambient music with intentional imperfections. (Global)
+
+55. Luk Thung  – Thai rural pop music. (Southeast Asia)
+
+56. Moroccan Chaabi  – Popular Moroccan street and wedding music. (North Africa)
+
+57. Chgouri  – Moroccan Andalusian religious chant style. (North Africa)
+
+58. Dakkamarrakchia  – Moroccan percussion-heavy ceremonial music. (North Africa)
+
+59. Gnawa  – Moroccan spiritual music with African roots. (North Africa)
+
+60. Makossa  – Cameroonian dance music with jazz influences. (Central Africa)
+
+61. Malhoun  – Moroccan poetic sung genre. (North Africa)
+
+62. Mariachi  – Mexican ensemble music with violins and trumpets. (Latin America)
+
+63. Mbaqanga  – South African urban jazz-influenced dance music. (Southern Africa)
+
+64. Mbube  – South African a cappella choral music. (Southern Africa)
+
+65. Merengue  – Fast-paced dance music from the Dominican Republic. (Latin America)
+
+66. Metal  – Heavy guitar-based rock with aggressive tones. (Global)
+
+67. Minyo  – Traditional Japanese folk songs. (Asia - Japan)
+
+68. Norteno  – Mexican folk genre with accordion and polka rhythms. (Latin America)
+
+69. Nordic Folk  – Traditional music from Scandinavia. (Europe - Nordic)
+
+70. Samicjoik  – Indigenous Sámi chanting from Northern Europe. (Europe - Nordic)
+
+71. Old Cpop  – Early Chinese popular music. (Asia - China)
+
+72. Bombayplena  – Fusion of Indian and Caribbean rhythmic styles. (Caribbean/Asia)
+
+73. Rai  – Algerian pop-folk with expressive lyrics. (North Africa)
+
+74. Rap  – Rhythmic spoken word over beats. (North America)
+
+75. Reggada  – Moroccan dance music with rapid beats. (North Africa)
+
+76. Reggae  – Jamaican rhythm-centric genre with off-beat accents. (Caribbean)
+
+77. RnB  – Soulful African-American pop music with smooth vocals. (North America)
+
+78. Rock  – Amplified genre with guitar-driven sound. (North America / Europe)
+
+79. Samba  – Brazilian carnival music with strong percussion. (Latin America)
+
+80. Sertanejo  – Brazilian country-style pop. (Latin America)
+
+81. Slavic Folk  – Eastern European traditional music. (Eastern Europe)
+
+82. Son Jarocho  – Mexican coastal folk genre with Afro-Caribbean roots. (Latin America)
+
+83. Soukous  – Danceable Congolese rumba genre. (Central Africa)
+
+84. Taktouka Jabalya  – Northern Moroccan mountain folk music. (North Africa)
+
+85. Tango  – Passionate dance music from Argentina. (Latin America)
+
+86. Turbo Folk  – Balkan pop-folk fusion with dance elements. (Eastern Europe)
+
+87. Turkish Classical  – Ottoman-era refined art music. (Middle East - Turkey)
+
+88. Turkish Folk  – Regional Turkish traditional music. (Middle East - Turkey)
+
+89. Afrobeats  – West African pop blending traditional and electronic music. (West Africa)
+
+90. Griot  – West African oral historian music. (West Africa)
+
+91. Highlife  – Ghanaian music with jazz and brass influences. (West Africa)
+
+92. Juju  – Nigerian music combining drums and electric guitars. (West Africa)
+
+93. Mbalax  – Senegalese dance music with sabar drums. (West Africa)
+
+94. Wassoulou  – Malian genre with female vocalists and hunter's harp. (West Africa)
+
+95. Chanson  – French lyrical art song. (Europe - Western)
+
+96. Fado  – Portuguese emotional folk song. (Europe - Western)
+
+97. Flamenco  – Spanish guitar and dance music with gypsy roots. (Europe - Western)
+
+98. Opera  – Dramatic classical music involving orchestras and vocalists. (Europe)
+
+99. Gospel  – Christian worship music with powerful vocals. (North America)
+
+100. Bluegrass  – American roots music with banjo and mandolin. (North America)
